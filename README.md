@@ -27,11 +27,11 @@
   ---
 
   <!-- Social Links Section -->
-  ### 🔗 Connect with Me:
+  ### ways to conmect with me xd:
   <p align="center">
     <!-- Replace # with your actual links -->
-    <a href="https://discord.gg/YOUR_DISCORD_INVITE_OR_ID" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
-    <a href="https://instagram.com/YOUR_INSTAGRAM_HANDLE" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> 
+    <a href="[https://discord.gg/YOUR_DISCORD_INVITE_OR_ID](https://discord.com/users/1258648565081837620)" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
+    <a href="https://instagram.com/xenanoxeni/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> 
   </p>
 
   ---
@@ -44,7 +44,7 @@
 
   ---
 
-  ### 🛠️ Languages and Tools:
+  ### coding languages and tools i use:
   <p align="center">
     <!-- Updated Skills -->
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
@@ -58,7 +58,7 @@
 
   ---
 
-  ### 📊 My GitHub Stats:
+  ###  My GitHub analystic:
   <p align="center">
     <!-- Username is set to zenoncord -->
     <img src="https://github-readme-stats.vercel.app/api?username=zenoncord&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" alt="zenoncord's GitHub Stats" />
@@ -68,10 +68,7 @@
 
   ---
 
-  ### 🏆 GitHub Trophies:
-  <p align="center">
-    <!-- Username is set to zenoncord -->
-    <img src="https://github-profile-trophy.vercel.app/?username=zenoncord&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies"/>
+ 
   </p>
 
   ---
