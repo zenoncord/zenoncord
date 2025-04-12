@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=zenoncord=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views Counter" />
 </p>
 
 ---
