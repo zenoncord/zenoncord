@@ -8,8 +8,8 @@
 
   # 𝐤𝐲𝐨𝐬𝐡𝐢 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=zenoncord&label=Profile%20Watchers&color=blueviolet&style=flat-square&logo=github" alt="Profile Views Counter" />
+  <!-- Profile Views Counter (Total Views Only) -->
+  <img src="https://komarev.com/ghpvc/?username=zenoncord&label=Total%20Profile%20Views&color=blueviolet&style=flat-square&logo=github" alt="Profile Views Counter" />
 
   <!-- Optional: Status Badge -->
   <img src="https://img.shields.io/badge/Status-Always%20Bored-orange?style=flat-square" alt="Status Badge"/>
@@ -29,8 +29,9 @@
   <!-- Social Links Section -->
   ### ways to conmect with me xd:
   <p align="center">
-    <!-- Replace # with your actual links -->
-    <a href="[https://discord.gg/YOUR_DISCORD_INVITE_OR_ID](https://discord.com/users/1258648565081837620)" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
+    <!-- Corrected Discord User Link -->
+    <a href="https://discord.com/users/1258648565081837620" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
+    <!-- Updated Instagram Link -->
     <a href="https://instagram.com/xenanoxeni/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> 
   </p>
 
@@ -38,7 +39,6 @@
 
   ### about me:
   <p align="center">
-    <!-- Add your 'About Me' content here! -->
     just an 15 yo's doing nothin 24/7 only coding🤷🏻
   </p>
 
@@ -58,7 +58,7 @@
 
   ---
 
-  ###  My GitHub analystic:
+  ### My GitHub analystic:
   <p align="center">
     <!-- Username is set to zenoncord -->
     <img src="https://github-readme-stats.vercel.app/api?username=zenoncord&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" alt="zenoncord's GitHub Stats" />
@@ -68,10 +68,7 @@
 
   ---
 
- 
-  </p>
-
-  ---
+  <!-- Removed Trophies section as it wasn't in your last code block -->
 
   ### 🐍 Contribution Graph Snake:
   <p align="center">
