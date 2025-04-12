@@ -1,10 +1,9 @@
 <div align="center">
 
-  <!-- Banner Image Placeholder -->
+  <!-- Banner Image - Constrained Height -->
   <p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1358781691073925183/1360704066891812895/IMG_4159.gif?ex=67fc15ea&is=67fac46a&hm=1658dd42ddc02eaae916741942de02dedad46e6fe01b5372ee813433cb0b78d8&" alt="Profile Banner" width="100%"/>
-    <!-- Replace YOUR_BANNER_IMAGE_LINK_HERE with the direct URL to your banner -->
-    <!-- Adjust width="100%" or remove if it doesn't look right -->
+    <img src="https://cdn.discordapp.com/attachments/1358781691073925183/1360704066891812895/IMG_4159.gif?ex=67fc15ea&is=67fac46a&hm=1658dd42ddc02eaae916741942de02dedad46e6fe01b5372ee813433cb0b78d8&" alt="Profile Banner" style="max-height: 150px; width: auto;"/>
+    <!-- You can adjust the '150px' value to make it taller or shorter -->
   </p>
 
   # 𝐤𝐲𝐨𝐬𝐡𝐢 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬
@@ -12,8 +11,8 @@
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=zenoncord&label=Profile%20Watchers&color=blueviolet&style=flat-square&logo=github" alt="Profile Views Counter" />
 
-  <!-- Optional: Add a fun badge or two -->
-  <img src="https://img.shields.io/badge/Status-Always%20Coding-brightgreen?style=flat-square" alt="Status Badge"/>
+  <!-- Optional: Status Badge -->
+  <img src="https://img.shields.io/badge/Status-Always%20Bored-orange?style=flat-square" alt="Status Badge"/>
 
   <br>
 
@@ -22,8 +21,8 @@
 
   <br>
 
-  <!-- Typing SVG Animation -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9400D3¢er=true&vCenter=true&width=435&lines=Welcome+to+Kyoshi+Projects!;Exploring+the+World+of+Code...;Building+Cool+Things+%F0%9F%9A%80;Always+Learning+%E2%9A%9B%EF%B8%8F" alt="Typing SVG" /></a>
+  <!-- Typing SVG Animation - Updated Text -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=9400D3¢er=true&vCenter=true&width=435&lines=Welcome+to+Kyoshi+Projects;Bored+all+the+time.." alt="Typing SVG" /></a>
 
   ---
 
@@ -37,26 +36,24 @@
 
   ---
 
-  ### 🚀 About Me:
+  ### about me:
   <p align="center">
     <!-- Add your 'About Me' content here! -->
-    ✨ Working on something awesome... ✨
+    just an 15 yo's doing nothin 24/7 only coding🤷🏻
   </p>
 
   ---
 
   ### 🛠️ Languages and Tools:
   <p align="center">
-    <!-- Add/Remove skills as needed -->
+    <!-- Updated Skills -->
     <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> 
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/> 
-    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black" alt="React"/> 
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/> 
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/> 
+    <img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" alt="Replit"/> 
   </p>
 
   ---
@@ -67,9 +64,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=zenoncord&show_icons=true&theme=radical&rank_icon=github&count_private=true&hide_border=true" alt="zenoncord's GitHub Stats" />
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zenoncord&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="zenoncord's Top Languages" />
-    <br>
-    <!-- Optional Streak Stats -->
-    <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=zenoncord&theme=radical&hide_border=true" alt="GitHub Streak" /> -->
   </p>
 
   ---
