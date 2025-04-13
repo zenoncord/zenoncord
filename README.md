@@ -30,7 +30,7 @@
   ### ways to conmect with me xd:
   <p align="center">
     <!-- Corrected Discord User Link -->
-    <a href="https://discord.com/users/1258648565081837620" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
+    <a href="https://discord.com/users/1151602280936767489" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a> 
     <!-- Updated Instagram Link -->
     <a href="https://instagram.com/xenanoxeni/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> 
   </p>
